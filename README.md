@@ -9,7 +9,7 @@ npm start
 ## Face pile ( displays a list of personas, each circle represents a person)
 <img width="717" alt="image" src="https://github.com/prisciladd/PowerAppsPCF/assets/60947781/0a060f58-9993-44d2-a0a3-3528bd62bd29">
 
-## Formatting API (using api for formatting numbers)
+## Formatting API (using api for formatting numbers and text)
 <img width="714" alt="image" src="https://github.com/prisciladd/PowerAppsPCF/assets/60947781/d0b16095-ed93-481e-a4cd-89824ad75f28">
 
 ## Hello PCF (editable input with button)
