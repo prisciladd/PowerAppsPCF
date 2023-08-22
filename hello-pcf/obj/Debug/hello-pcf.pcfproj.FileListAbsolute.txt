@@ -1,0 +1,2 @@
+C:\Users\priscila.da.dalt\Documents\MS Learn\hello-pcf\obj\Debug\hello-pcf.pcfproj.AssemblyReference.cache
+C:\Users\priscila.da.dalt\Documents\MS Learn\hello-pcf\obj\Debug\hello-pcf.pcfproj.CoreCompileInputs.cache

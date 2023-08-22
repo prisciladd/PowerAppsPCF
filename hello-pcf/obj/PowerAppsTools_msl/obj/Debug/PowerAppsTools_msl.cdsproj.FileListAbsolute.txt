@@ -1,0 +1,2 @@
+C:\Users\priscila.da.dalt\Documents\MS Learn\hello-pcf\obj\PowerAppsTools_msl\obj\Debug\PowerAppsTools_msl.cdsproj.AssemblyReference.cache
+C:\Users\priscila.da.dalt\Documents\MS Learn\hello-pcf\obj\PowerAppsTools_msl\obj\Debug\PowerAppsTools_msl.cdsproj.CoreCompileInputs.cache

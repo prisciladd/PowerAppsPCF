@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\obj\\PowerAppsTools_msl\\PowerAppsTools_msl.cdsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\hello-pcf.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\hello-pcf.pcfproj",
+        "projectName": "hello-pcf",
+        "projectPath": "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\hello-pcf.pcfproj",
+        "packagesPath": "C:\\Users\\priscila.da.dalt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\priscila.da.dalt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\obj\\PowerAppsTools_msl\\PowerAppsTools_msl.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\obj\\PowerAppsTools_msl\\PowerAppsTools_msl.cdsproj",
+        "projectName": "PowerAppsTools_msl",
+        "projectPath": "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\obj\\PowerAppsTools_msl\\PowerAppsTools_msl.cdsproj",
+        "packagesPath": "C:\\Users\\priscila.da.dalt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\obj\\PowerAppsTools_msl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\priscila.da.dalt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\hello-pcf.pcfproj": {
+                "projectPath": "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\hello-pcf.pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

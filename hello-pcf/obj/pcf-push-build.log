@@ -1,0 +1,36 @@
+﻿  Determinando os projetos a serem restaurados...
+  C:\Users\priscila.da.dalt\Documents\MS Learn\hello-pcf\hello-pcf.pcfproj restaurado (em 9,28 sec).
+  C:\Users\priscila.da.dalt\Documents\MS Learn\hello-pcf\obj\PowerAppsTools_msl\PowerAppsTools_msl.cdsproj restaurado (em 15,38 sec).
+  npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+  
+  > pcf-project@1.0.0 clean
+  > pcf-scripts clean --noColor --buildMode development --outDir C:\Users\priscila.da.dalt\Documents\MS Learn\hello-pcf\out\controls --buildSource MSBuild
+  
+  [11:13:46] [clean]  Initializing...
+  [11:13:46] [clean]  Cleaning build outputs...
+  [11:13:46] [clean]  Succeeded
+  Cleaning output directory: bin\Debug\, Intermediate directory: obj\Debug\ and Solution Packager working directory: obj\Debug\
+  Removing log file: obj\Debug\SolutionPackager.log and generated solution package: bin\Debug\PowerAppsTools_msl.zip
+  npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+  
+  > pcf-project@1.0.0 build
+  > pcf-scripts build --noColor --buildMode development --outDir C:\Users\priscila.da.dalt\Documents\MS Learn\hello-pcf\out\controls --buildSource MSBuild
+  
+  [11:13:59] [build]  Initializing...
+  [11:13:59] [build]  Validating manifest...
+  [11:13:59] [build]  Validating control...
+  [11:14:00] [build]  Generating manifest types...
+  DeprecationWarning: 'createInterfaceDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+  [11:14:00] [build]  Generating design types...
+  [11:14:00] [build]  Running ESLint...
+  [11:14:02] [build]  Compiling and bundling control...
+  [Webpack stats]:
+  asset bundle.js 6.65 KiB [emitted] (name: main)
+  ./HelloPCF/index.ts 5.05 KiB [built] [code generated]
+  webpack 5.88.2 compiled successfully in 2793 ms
+  [11:14:06] [build]  Generating build outputs...
+  [11:14:06] [build]  Succeeded
+  Running Solution Packager to build package type: Unmanaged bin\Debug\PowerAppsTools_msl.zip
+  Solution: bin\Debug\PowerAppsTools_msl.zip generated.
+  Solution Package Type: Unmanaged generated.
+  Completed intermiediate files clean up.

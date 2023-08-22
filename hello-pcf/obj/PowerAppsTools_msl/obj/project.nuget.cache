@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HvG8RrvHj9VYtkSzqjUg5jJKLuAkvlpmRuruDcAwv+CA68npOqKFuU1mZLoBTpfLtF3HoXAXTD2YJq+LJVHPCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\priscila.da.dalt\\Documents\\MS Learn\\hello-pcf\\obj\\PowerAppsTools_msl\\PowerAppsTools_msl.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\priscila.da.dalt\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\priscila.da.dalt\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\priscila.da.dalt\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.25.2\\microsoft.powerapps.msbuild.pcf.1.25.2.nupkg.sha512",
+    "C:\\Users\\priscila.da.dalt\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.25.2\\microsoft.powerapps.msbuild.solution.1.25.2.nupkg.sha512"
+  ],
+  "logs": []
+}
